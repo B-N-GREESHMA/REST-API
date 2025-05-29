@@ -6,14 +6,14 @@ A simple REST API to manage a list of books using **Node.js** and **Express.js**
 
 ## Features
 
-- View all books (`GET /books`)
-- Add a new book (`POST /books`)
-- Update a book by ID (`PUT /books/:id`)
-- Delete a book by ID (`DELETE /books/:id`)
+- View all books (`GET`')
+- Add a new book (`POST`)
+- Update a book by ID (`PUT `)
+- Delete a book by ID (`DELETE `)
 
 ---
 
-## Tech Stack
+## tools
 
 - [Node.js](https://nodejs.org/)
 - [Express.js](https://expressjs.com/)
